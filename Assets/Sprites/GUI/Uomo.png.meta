@@ -1,0 +1,2410 @@
+fileFormatVersion: 2
+guid: 91f1c4c95faccf84ebe9754546f5f12a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6792503955775411583
+    second: Uomo_0
+  - first:
+      213: -4652507848685205249
+    second: Uomo_1
+  - first:
+      213: -8856953802599183038
+    second: Uomo_2
+  - first:
+      213: 6136866774465523456
+    second: Uomo_3
+  - first:
+      213: 5710316153002585770
+    second: Uomo_4
+  - first:
+      213: -3615141282707288931
+    second: Uomo_5
+  - first:
+      213: -2286507186560612133
+    second: Uomo_6
+  - first:
+      213: -6847664579448039970
+    second: Uomo_7
+  - first:
+      213: -4147340491531556484
+    second: Uomo_8
+  - first:
+      213: 8897221928118266352
+    second: Uomo_9
+  - first:
+      213: 5053019751906779168
+    second: Uomo_10
+  - first:
+      213: -7545783427921659257
+    second: Uomo_11
+  - first:
+      213: 6950540553174314161
+    second: Uomo_12
+  - first:
+      213: 309301148831064176
+    second: Uomo_13
+  - first:
+      213: -2170403363143825524
+    second: Uomo_14
+  - first:
+      213: 4030847907874128746
+    second: Uomo_15
+  - first:
+      213: -348511380602007173
+    second: Uomo_16
+  - first:
+      213: 3204199686415196948
+    second: Uomo_17
+  - first:
+      213: -6286100407083125663
+    second: Uomo_18
+  - first:
+      213: -6810196416074052365
+    second: Uomo_19
+  - first:
+      213: -5817122088070687259
+    second: Uomo_20
+  - first:
+      213: 1705969063971072769
+    second: Uomo_21
+  - first:
+      213: -9145704961331399772
+    second: Uomo_22
+  - first:
+      213: -2637202722440135782
+    second: Uomo_23
+  - first:
+      213: 5771966795530409701
+    second: Uomo_24
+  - first:
+      213: -5503704724683536227
+    second: Uomo_25
+  - first:
+      213: 3122967361943741222
+    second: Uomo_26
+  - first:
+      213: -5527380293744731591
+    second: Uomo_27
+  - first:
+      213: 6923984915859127121
+    second: Uomo_28
+  - first:
+      213: 3619741588283585980
+    second: Uomo_29
+  - first:
+      213: 8313720285835499123
+    second: Uomo_30
+  - first:
+      213: -2350152760619050268
+    second: Uomo_31
+  - first:
+      213: 5868434782395441765
+    second: Uomo_32
+  - first:
+      213: 3837885688124046263
+    second: Uomo_33
+  - first:
+      213: -7048860072842365889
+    second: Uomo_34
+  - first:
+      213: 7111021282240730800
+    second: Uomo_35
+  - first:
+      213: 5130089151059152973
+    second: Uomo_36
+  - first:
+      213: -6678607265214140314
+    second: Uomo_37
+  - first:
+      213: -5370887317250802509
+    second: Uomo_38
+  - first:
+      213: 3298505579702859716
+    second: Uomo_39
+  - first:
+      213: 8911981873907008533
+    second: Uomo_40
+  - first:
+      213: 5588196324464360837
+    second: Uomo_41
+  - first:
+      213: 5616752718727397129
+    second: Uomo_42
+  - first:
+      213: -1681688712718374066
+    second: Uomo_43
+  - first:
+      213: -4255953356345062816
+    second: Uomo_44
+  - first:
+      213: 1139151668972732308
+    second: Uomo_45
+  - first:
+      213: 7245808060217821943
+    second: Uomo_46
+  - first:
+      213: -4784714417237442780
+    second: Uomo_47
+  - first:
+      213: -4436562453677294084
+    second: Uomo_48
+  - first:
+      213: 8329099487131561669
+    second: Uomo_49
+  - first:
+      213: 5556954811991685944
+    second: Uomo_50
+  - first:
+      213: 8095545674290539973
+    second: Uomo_51
+  - first:
+      213: 8934859108456383137
+    second: Uomo_52
+  - first:
+      213: 7911502626890330573
+    second: Uomo_53
+  - first:
+      213: 2921890374964789465
+    second: Uomo_54
+  - first:
+      213: -2033656947928479452
+    second: Uomo_55
+  - first:
+      213: -5982859757002191744
+    second: Uomo_56
+  - first:
+      213: 3117854196801857318
+    second: Uomo_57
+  - first:
+      213: 7851171012638370824
+    second: Uomo_58
+  - first:
+      213: -7056733120592107809
+    second: Uomo_59
+  - first:
+      213: 727761825744407800
+    second: Uomo_60
+  - first:
+      213: -7471853168220083822
+    second: Uomo_61
+  - first:
+      213: -1585787407141495889
+    second: Uomo_62
+  - first:
+      213: -5439209430325826846
+    second: Uomo_63
+  - first:
+      213: -8109359082373581305
+    second: Uomo_64
+  - first:
+      213: -3337452558203189664
+    second: Uomo_65
+  - first:
+      213: 3814014715232528893
+    second: Uomo_66
+  - first:
+      213: 8730597320582581933
+    second: Uomo_67
+  - first:
+      213: 3749709545636813839
+    second: Uomo_68
+  - first:
+      213: -4251444015679653486
+    second: Uomo_69
+  - first:
+      213: 6978766331580510819
+    second: Uomo_70
+  - first:
+      213: 2259936073801976844
+    second: Uomo_71
+  - first:
+      213: 1700151554605442269
+    second: Uomo_72
+  - first:
+      213: 5822839781205867067
+    second: Uomo_73
+  - first:
+      213: 6720348017124505662
+    second: Uomo_74
+  - first:
+      213: 4700587143258485506
+    second: Uomo_75
+  - first:
+      213: -8332050919869854002
+    second: Uomo_76
+  - first:
+      213: -6231154601863244567
+    second: Uomo_77
+  - first:
+      213: 6831258698268820756
+    second: Uomo_78
+  - first:
+      213: 1558254132430734733
+    second: Uomo_79
+  - first:
+      213: 1072217813616580140
+    second: Uomo_80
+  - first:
+      213: 4923164731419510996
+    second: Uomo_81
+  - first:
+      213: -7819626294126145232
+    second: Uomo_82
+  - first:
+      213: -7036472894717713565
+    second: Uomo_83
+  - first:
+      213: 4850199859650442595
+    second: Uomo_84
+  - first:
+      213: 6230789518480821738
+    second: Uomo_85
+  - first:
+      213: 6292343088243500353
+    second: Uomo_86
+  - first:
+      213: -2362856245836758908
+    second: Uomo_87
+  - first:
+      213: 55160335350007601
+    second: Uomo_88
+  - first:
+      213: 3329713439562385457
+    second: Uomo_89
+  - first:
+      213: -2633452412770982424
+    second: Uomo_90
+  - first:
+      213: 7166298781796356872
+    second: Uomo_91
+  - first:
+      213: 219161182561775850
+    second: Uomo_92
+  - first:
+      213: -1866611386404938014
+    second: Uomo_93
+  - first:
+      213: 1940826679467055360
+    second: Uomo_94
+  - first:
+      213: 4882526975323216437
+    second: Uomo_95
+  - first:
+      213: 5125667841818692347
+    second: Uomo_96
+  - first:
+      213: 2210487504277575626
+    second: Uomo_97
+  - first:
+      213: -4877425924512052339
+    second: Uomo_98
+  - first:
+      213: 8313612397964465897
+    second: Uomo_99
+  - first:
+      213: 3523367434855554776
+    second: Uomo_100
+  - first:
+      213: -1958110090981817625
+    second: Uomo_101
+  - first:
+      213: -5977722838758806001
+    second: Uomo_102
+  - first:
+      213: -7685219698322836893
+    second: Uomo_103
+  - first:
+      213: 8919950589641971754
+    second: Uomo_104
+  - first:
+      213: -2383044031091716699
+    second: Uomo_105
+  - first:
+      213: 4790761717700747664
+    second: Uomo_106
+  - first:
+      213: -4604825898830753823
+    second: Uomo_107
+  - first:
+      213: -6510773504631254914
+    second: Uomo_108
+  - first:
+      213: 1809187060311954935
+    second: Uomo_109
+  - first:
+      213: 4858704532383507540
+    second: Uomo_110
+  - first:
+      213: -2788748578930026768
+    second: Uomo_111
+  - first:
+      213: -8659040303083514893
+    second: Uomo_112
+  - first:
+      213: 2625182974690535661
+    second: Uomo_113
+  - first:
+      213: -8927995591396862625
+    second: Uomo_114
+  - first:
+      213: 1543036704723443300
+    second: Uomo_115
+  - first:
+      213: -1310552609188125725
+    second: Uomo_116
+  - first:
+      213: -4130734076862353114
+    second: Uomo_117
+  - first:
+      213: -7097194615463139346
+    second: Uomo_118
+  - first:
+      213: 2536218863158473487
+    second: Uomo_119
+  - first:
+      213: 1843273378965436952
+    second: Uomo_120
+  - first:
+      213: -8174584783699209049
+    second: Uomo_121
+  - first:
+      213: -968902471448581347
+    second: Uomo_122
+  - first:
+      213: -1472206609501319008
+    second: Uomo_123
+  - first:
+      213: 6196256633871126909
+    second: Uomo_124
+  - first:
+      213: -333045529754835106
+    second: Uomo_125
+  - first:
+      213: 4278515981152214438
+    second: Uomo_126
+  - first:
+      213: -8781797727872962806
+    second: Uomo_127
+  - first:
+      213: -5976334642614610643
+    second: Uomo_128
+  - first:
+      213: 5256904596904174643
+    second: Uomo_129
+  - first:
+      213: -173488915486216217
+    second: Uomo_130
+  - first:
+      213: -6769761455834554657
+    second: Uomo_131
+  - first:
+      213: 1103126392838297183
+    second: Uomo_132
+  - first:
+      213: 7876866929657138230
+    second: Uomo_133
+  - first:
+      213: -7754933114832630298
+    second: Uomo_134
+  - first:
+      213: -4046326129650228679
+    second: Uomo_135
+  - first:
+      213: -4967332923234498628
+    second: Uomo_136
+  - first:
+      213: -6831122914962403199
+    second: Uomo_137
+  - first:
+      213: 7833620686569048928
+    second: Uomo_138
+  - first:
+      213: 6306310419984397769
+    second: Uomo_139
+  - first:
+      213: -8531440073077350771
+    second: Uomo_140
+  - first:
+      213: 3256520620545668679
+    second: Uomo_141
+  - first:
+      213: 3467229412457449501
+    second: Uomo_142
+  - first:
+      213: 6508582992469549924
+    second: Uomo_143
+  - first:
+      213: 483506530245809632
+    second: Uomo_144
+  - first:
+      213: 6585385018239862281
+    second: Uomo_145
+  - first:
+      213: -4164879704063093427
+    second: Uomo_146
+  - first:
+      213: -4512638789532528729
+    second: Uomo_147
+  - first:
+      213: 5901037677934783431
+    second: Uomo_148
+  - first:
+      213: 6556836911561695339
+    second: Uomo_149
+  - first:
+      213: 4445613171549435880
+    second: Uomo_150
+  - first:
+      213: 4942241409994592303
+    second: Uomo_151
+  - first:
+      213: -717612196159514674
+    second: Uomo_152
+  - first:
+      213: -8407167422959634632
+    second: Uomo_153
+  - first:
+      213: 1485426167643508971
+    second: Uomo_154
+  - first:
+      213: -9100588111118848065
+    second: Uomo_155
+  - first:
+      213: 6232774798312898718
+    second: Uomo_156
+  - first:
+      213: -8971378287310807873
+    second: Uomo_157
+  - first:
+      213: -3645770810793478594
+    second: Uomo_158
+  - first:
+      213: 5852597849511140300
+    second: Uomo_159
+  - first:
+      213: 8234374973258190585
+    second: Uomo_160
+  - first:
+      213: 2223286197257984991
+    second: Uomo_161
+  - first:
+      213: 4040861830009150877
+    second: Uomo_162
+  - first:
+      213: 4209144219165293846
+    second: Uomo_163
+  - first:
+      213: 6125290724252136382
+    second: Uomo_164
+  - first:
+      213: 1228077975263727275
+    second: Uomo_165
+  - first:
+      213: -8991524096897550369
+    second: Uomo_166
+  - first:
+      213: 328079359967613552
+    second: Uomo_167
+  - first:
+      213: -5893827719355598258
+    second: Uomo_168
+  - first:
+      213: 6303567744608651335
+    second: Uomo_169
+  - first:
+      213: -4782850451332103796
+    second: Uomo_170
+  - first:
+      213: -4818052306745116359
+    second: Uomo_171
+  - first:
+      213: -2396823523650430168
+    second: Uomo_172
+  - first:
+      213: 3633618156655005500
+    second: Uomo_173
+  - first:
+      213: -92553441703024508
+    second: Uomo_174
+  - first:
+      213: 7625465275018045880
+    second: Uomo_175
+  - first:
+      213: 6105136916080324426
+    second: Uomo_176
+  - first:
+      213: 7231183089665477010
+    second: Uomo_177
+  - first:
+      213: -6334749229830425111
+    second: Uomo_178
+  - first:
+      213: 1598824753746456465
+    second: Uomo_179
+  - first:
+      213: 5469219947290627506
+    second: Uomo_180
+  - first:
+      213: 6433125301236895567
+    second: Uomo_181
+  - first:
+      213: -557792371155521320
+    second: Uomo_182
+  - first:
+      213: -2389427434606449030
+    second: Uomo_183
+  - first:
+      213: -7135602152198010324
+    second: Uomo_184
+  - first:
+      213: 3196867902315304827
+    second: Uomo_185
+  - first:
+      213: 5835734823635884918
+    second: Uomo_186
+  - first:
+      213: -1445176919862339157
+    second: Uomo_187
+  - first:
+      213: -148020138396173563
+    second: Uomo_188
+  - first:
+      213: 4598364429111945609
+    second: Uomo_189
+  - first:
+      213: -3322060915673086972
+    second: Uomo_190
+  - first:
+      213: 133267790126027632
+    second: Uomo_191
+  - first:
+      213: 7449372951951600709
+    second: Uomo_192
+  - first:
+      213: 4187685721464533605
+    second: Uomo_193
+  - first:
+      213: 3393787602251652589
+    second: Uomo_194
+  - first:
+      213: 587935586694541677
+    second: Uomo_195
+  - first:
+      213: -6239375310011513926
+    second: Uomo_196
+  - first:
+      213: 3986822533983851186
+    second: Uomo_197
+  - first:
+      213: -4082194986333221758
+    second: Uomo_198
+  - first:
+      213: -770361806771541524
+    second: Uomo_199
+  - first:
+      213: -6682549062613575576
+    second: Uomo_200
+  - first:
+      213: -4993196832137948709
+    second: Uomo_201
+  - first:
+      213: 2015849093944280362
+    second: Uomo_202
+  - first:
+      213: 7324381543760503789
+    second: Uomo_203
+  - first:
+      213: 8498360309407676805
+    second: Uomo_204
+  - first:
+      213: -6293773694509793390
+    second: Uomo_205
+  - first:
+      213: -3083772381494644241
+    second: Uomo_206
+  - first:
+      213: 4239516359980580114
+    second: Uomo_207
+  - first:
+      213: -2318049321213117545
+    second: Uomo_208
+  - first:
+      213: 3458088283013579030
+    second: Uomo_209
+  - first:
+      213: -643333845471470583
+    second: Uomo_210
+  - first:
+      213: -7972004443590555249
+    second: Uomo_211
+  - first:
+      213: 3610575833367277476
+    second: Uomo_212
+  - first:
+      213: -8120920283479545690
+    second: Uomo_213
+  - first:
+      213: 2681505004667292016
+    second: Uomo_214
+  - first:
+      213: 8952051519323802157
+    second: Uomo_215
+  - first:
+      213: -3451119684444647445
+    second: Uomo_216
+  - first:
+      213: 7557074663028706483
+    second: Uomo_217
+  - first:
+      213: -5847970541811930799
+    second: Uomo_218
+  - first:
+      213: 7955725787694638460
+    second: Uomo_219
+  - first:
+      213: -1004687706492718057
+    second: Uomo_220
+  - first:
+      213: 7234542796478444534
+    second: Uomo_221
+  - first:
+      213: -193951898183272323
+    second: Uomo_222
+  - first:
+      213: 2195240428072831422
+    second: Uomo_223
+  - first:
+      213: -5521460114687825795
+    second: Uomo_224
+  - first:
+      213: 4847547189418549576
+    second: Uomo_225
+  - first:
+      213: 303126661697139061
+    second: Uomo_226
+  - first:
+      213: -6998115258607277918
+    second: Uomo_227
+  - first:
+      213: -7573026642119468792
+    second: Uomo_228
+  - first:
+      213: 1888776637281986140
+    second: Uomo_229
+  - first:
+      213: 8308399218964707401
+    second: Uomo_230
+  - first:
+      213: 318563778735738004
+    second: Uomo_231
+  - first:
+      213: 4867028048901946860
+    second: Uomo_232
+  - first:
+      213: 4903322328676436329
+    second: Uomo_233
+  - first:
+      213: 1461147795219940177
+    second: Uomo_234
+  - first:
+      213: -1550127936333382841
+    second: Uomo_235
+  - first:
+      213: -3876274341889582672
+    second: Uomo_236
+  - first:
+      213: -866433947513255435
+    second: Uomo_237
+  - first:
+      213: 7443076248904463588
+    second: Uomo_238
+  - first:
+      213: 4499962841325164382
+    second: Uomo_239
+  - first:
+      213: -5827197420703286253
+    second: Uomo_240
+  - first:
+      213: -8713079419671349850
+    second: Uomo_241
+  - first:
+      213: 3575119634488890479
+    second: Uomo_242
+  - first:
+      213: -2035859891812107250
+    second: Uomo_243
+  - first:
+      213: 526731231876599039
+    second: Uomo_244
+  - first:
+      213: 6343619593806915650
+    second: Uomo_245
+  - first:
+      213: -408741843029608927
+    second: Uomo_246
+  - first:
+      213: 8154998020368482344
+    second: Uomo_247
+  - first:
+      213: 999582967113343498
+    second: Uomo_248
+  - first:
+      213: 5983904158197460359
+    second: Uomo_249
+  - first:
+      213: 2733953493115430615
+    second: Uomo_250
+  - first:
+      213: 4921299752265938693
+    second: Uomo_251
+  - first:
+      213: -1100336226216900657
+    second: Uomo_252
+  - first:
+      213: 800759734079967534
+    second: Uomo_253
+  - first:
+      213: -2188082157953212936
+    second: Uomo_254
+  - first:
+      213: 6205342659211957217
+    second: Uomo_255
+  - first:
+      213: 7896659089542454562
+    second: Uomo_256
+  - first:
+      213: -4039495166983580962
+    second: Uomo_257
+  - first:
+      213: -4877130957286859841
+    second: Uomo_258
+  - first:
+      213: -5344680838506516726
+    second: Uomo_259
+  - first:
+      213: 6227422352722394456
+    second: Uomo_260
+  - first:
+      213: 1395853601697972996
+    second: Uomo_261
+  - first:
+      213: 2675792487594218997
+    second: Uomo_262
+  - first:
+      213: 2445500385470410861
+    second: Uomo_263
+  - first:
+      213: -1460205557823021811
+    second: Uomo_264
+  - first:
+      213: 3801985091262202683
+    second: Uomo_265
+  - first:
+      213: 5499624055054210930
+    second: Uomo_266
+  - first:
+      213: 8573230150243139881
+    second: Uomo_267
+  - first:
+      213: -661363220481966047
+    second: Uomo_268
+  - first:
+      213: 5725226197340262422
+    second: Uomo_269
+  - first:
+      213: 3635579521733972169
+    second: Uomo_270
+  - first:
+      213: 5289045034545763820
+    second: Uomo_271
+  - first:
+      213: 862482140119970699
+    second: Uomo_272
+  - first:
+      213: -6093230982364267611
+    second: Uomo_273
+  - first:
+      213: 2432942636168638107
+    second: Uomo_274
+  - first:
+      213: 6919386703739182321
+    second: Uomo_275
+  - first:
+      213: -3565428607863337243
+    second: Uomo_276
+  - first:
+      213: 7952282102168105362
+    second: Uomo_277
+  - first:
+      213: -6258858531618330101
+    second: Uomo_278
+  - first:
+      213: -9066432700918494220
+    second: Uomo_279
+  - first:
+      213: 8443583996731313040
+    second: Uomo_280
+  - first:
+      213: -1381114990265730787
+    second: Uomo_281
+  - first:
+      213: 7541513175377604296
+    second: Uomo_282
+  - first:
+      213: -124646995804814114
+    second: Uomo_283
+  - first:
+      213: -5651065833365614883
+    second: Uomo_284
+  - first:
+      213: -7959493560870511429
+    second: Uomo_285
+  - first:
+      213: 3207620907590813187
+    second: Uomo_286
+  - first:
+      213: -869756810322243384
+    second: Uomo_287
+  - first:
+      213: 6780732401084938315
+    second: Uomo_288
+  - first:
+      213: 6687622813177469739
+    second: Uomo_289
+  - first:
+      213: 3900349380283127734
+    second: Uomo_290
+  - first:
+      213: -6749110562123288878
+    second: Uomo_291
+  - first:
+      213: -3260117017960848558
+    second: Uomo_292
+  - first:
+      213: 894892930280506641
+    second: Uomo_293
+  - first:
+      213: -1587302178193948737
+    second: Uomo_294
+  - first:
+      213: 5796986264215737596
+    second: Uomo_295
+  - first:
+      213: -329777807712392226
+    second: Uomo_296
+  - first:
+      213: 1615403001924327481
+    second: Uomo_297
+  - first:
+      213: -641051344449161551
+    second: Uomo_298
+  - first:
+      213: 1447635675472190091
+    second: Uomo_299
+  - first:
+      213: -5679399533613995349
+    second: Uomo_300
+  - first:
+      213: -2800780648254648369
+    second: Uomo_301
+  - first:
+      213: 6611015918998534979
+    second: Uomo_302
+  - first:
+      213: 1343017219965423036
+    second: Uomo_303
+  - first:
+      213: 8342398324572644175
+    second: Uomo_304
+  - first:
+      213: 8364278768383749122
+    second: Uomo_305
+  - first:
+      213: -1721788171603254081
+    second: Uomo_306
+  - first:
+      213: 8884973474753754962
+    second: Uomo_307
+  - first:
+      213: -8287364724050116980
+    second: Uomo_308
+  - first:
+      213: -3114761296724308776
+    second: Uomo_309
+  - first:
+      213: 8325236525418058609
+    second: Uomo_310
+  - first:
+      213: -3033592116620864741
+    second: Uomo_311
+  - first:
+      213: -8497503845385861826
+    second: Uomo_312
+  - first:
+      213: -8009648686860457020
+    second: Uomo_313
+  - first:
+      213: -4540233365591713591
+    second: Uomo_314
+  - first:
+      213: -3194789951717013963
+    second: Uomo_315
+  - first:
+      213: -2906449535543245094
+    second: Uomo_316
+  - first:
+      213: 3492115935331299769
+    second: Uomo_317
+  - first:
+      213: -3664255382639143105
+    second: Uomo_318
+  - first:
+      213: 3415334250788402371
+    second: Uomo_319
+  - first:
+      213: -939863496123348084
+    second: Uomo_320
+  - first:
+      213: 6913749208180116795
+    second: Uomo_321
+  - first:
+      213: -4577557475975590102
+    second: Uomo_322
+  - first:
+      213: -225696133499570395
+    second: Uomo_323
+  - first:
+      213: 8983072184121767309
+    second: Uomo_324
+  - first:
+      213: -7270241431160179489
+    second: Uomo_325
+  - first:
+      213: 7115484191157857261
+    second: Uomo_326
+  - first:
+      213: -4098819964461361487
+    second: Uomo_327
+  - first:
+      213: 896203990466421741
+    second: Uomo_328
+  - first:
+      213: -1325055734800988773
+    second: Uomo_329
+  - first:
+      213: -5426276446607678999
+    second: Uomo_330
+  - first:
+      213: -4767384917974435668
+    second: Uomo_331
+  - first:
+      213: -5909423833716565805
+    second: Uomo_332
+  - first:
+      213: 7047827383068592868
+    second: Uomo_333
+  - first:
+      213: -564936287790850461
+    second: Uomo_334
+  - first:
+      213: -3625938794069338056
+    second: Uomo_335
+  - first:
+      213: -1812476309282182840
+    second: Uomo_336
+  - first:
+      213: 4084464360578700125
+    second: Uomo_337
+  - first:
+      213: 4738002253939087128
+    second: Uomo_338
+  - first:
+      213: -421100495102635331
+    second: Uomo_339
+  - first:
+      213: -2375564821852964682
+    second: Uomo_340
+  - first:
+      213: 6375522163129873596
+    second: Uomo_341
+  - first:
+      213: -7943212268505073417
+    second: Uomo_342
+  - first:
+      213: -1344927769964342969
+    second: Uomo_343
+  - first:
+      213: 6724493201426185875
+    second: Uomo_344
+  - first:
+      213: 5152962101655537126
+    second: Uomo_345
+  - first:
+      213: 4986608081508163958
+    second: Uomo_346
+  - first:
+      213: -6921416269138438695
+    second: Uomo_347
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Uomo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75dd6b0c52d34e50800000000000000
+      internalID: 6792503955775411583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8c66cf2c8fe6fb0800000000000000
+      internalID: -4652507848685205249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dc7045177c51580800000000000000
+      internalID: -8856953802599183038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f2aed11d78a2550800000000000000
+      internalID: 6136866774465523456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaee4ee594e1f3f40800000000000000
+      internalID: 5710316153002585770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cc16f382074ddc0800000000000000
+      internalID: -3615141282707288931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_6
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd84da804d1b440e0800000000000000
+      internalID: -2286507186560612133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed599f0785538f0a0800000000000000
+      internalID: -6847664579448039970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_8
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79eaa7ebcfa176c0800000000000000
+      internalID: -4147340491531556484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f92e414438497b70800000000000000
+      internalID: 8897221928118266352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020af6b31beef1640800000000000000
+      internalID: 5053019751906779168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a33ba93fdf74790800000000000000
+      internalID: -7545783427921659257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bce6ecbec7457060800000000000000
+      internalID: 6950540553174314161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07022b091cbda4400800000000000000
+      internalID: 309301148831064176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87cf78f3ad21e1e0800000000000000
+      internalID: -2170403363143825524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63c67cd0d270f730800000000000000
+      internalID: 4030847907874128746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_16
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71590feeb6d92bf0800000000000000
+      internalID: -348511380602007173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_17
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413223263aa977c20800000000000000
+      internalID: 3204199686415196948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1643f552cf843c8a0800000000000000
+      internalID: -6286100407083125663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc844901725d71a0800000000000000
+      internalID: -6810196416074052365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5d775084e654fa0800000000000000
+      internalID: -5817122088070687259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b2dc733d1dca710800000000000000
+      internalID: 1705969063971072769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3705f2bcde31180800000000000000
+      internalID: -9145704961331399772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_23
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b3340b816c66bd0800000000000000
+      internalID: -2637202722440135782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e690f628352a1050800000000000000
+      internalID: 5771966795530409701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_25
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98499876b9ee93b0800000000000000
+      internalID: -5503704724683536227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623abcdf442075b20800000000000000
+      internalID: 3122967361943741222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ad9dc78ecca43b0800000000000000
+      internalID: -5527380293744731591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b32fb989fe61060800000000000000
+      internalID: 6923984915859127121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5f95cdbc7eb3230800000000000000
+      internalID: 3619741588283585980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3761f2f4d84406370800000000000000
+      internalID: 8313720285835499123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_31
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ead56f0484926fd0800000000000000
+      internalID: -2350152760619050268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5622a30a75ed07150800000000000000
+      internalID: 5868434782395441765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb703903b8e24530800000000000000
+      internalID: 3837885688124046263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_34
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34fbc63c1b6d2e90800000000000000
+      internalID: -7048860072842365889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_35
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6933e2e2c6fa260800000000000000
+      internalID: 7111021282240730800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4057fa07ecb13740800000000000000
+      internalID: 5130089151059152973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660719ab312d053a0800000000000000
+      internalID: -6678607265214140314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc7d9ee076c675b0800000000000000
+      internalID: -5370887317250802509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c735d73955a6cd20800000000000000
+      internalID: 3298505579702859716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51482feeb48bdab70800000000000000
+      internalID: 8911981873907008533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d77d613f24d8d40800000000000000
+      internalID: 5588196324464360837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_42
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fb4feb6d6b2fd40800000000000000
+      internalID: 5616752718727397129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_43
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b23a7960179a8e0800000000000000
+      internalID: -1681688712718374066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_44
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06acb6ea8f0dfe4c0800000000000000
+      internalID: -4255953356345062816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fb96e48641fcf00800000000000000
+      internalID: 1139151668972732308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa02f37a084e8460800000000000000
+      internalID: 7245808060217821943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f3fd88697499db0800000000000000
+      internalID: -4784714417237442780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdbabc44f92e62c0800000000000000
+      internalID: -4436562453677294084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_49
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce6d55aad7e69370800000000000000
+      internalID: 8329099487131561669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_50
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b79a1a5f44e1d40800000000000000
+      internalID: 5556954811991685944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_51
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cda90316e7295070800000000000000
+      internalID: 8095545674290539973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_52
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2c4bd250ffefb70800000000000000
+      internalID: 8934859108456383137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_53
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc13e53e8bd4bcd60800000000000000
+      internalID: 7911502626890330573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0c860b0d3ac8820800000000000000
+      internalID: 2921890374964789465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429c7b7d7cff6c3e0800000000000000
+      internalID: -2033656947928479452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c87e2efbc98fca0800000000000000
+      internalID: -5982859757002191744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627e5d57fd7d44b20800000000000000
+      internalID: 3117854196801857318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c672f4076f4fc60800000000000000
+      internalID: 7851171012638370824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uomo_59
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6af507d92711e90800000000000000
+      internalID: -7056733120592107809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
